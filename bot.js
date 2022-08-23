@@ -1,3 +1,6 @@
+/**
+ * test
+ */
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
 
 if(!process.send) {
