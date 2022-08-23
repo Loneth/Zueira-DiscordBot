@@ -1,5 +1,5 @@
 /**
- * test
+ * test 1
  */
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
 
